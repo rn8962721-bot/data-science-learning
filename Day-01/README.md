@@ -1,1 +1,41 @@
 # Day 01 – Python & NumPy Basics
+Topics covered:
+    - Variables, data types (int, float, string, bool)
+    - Operators (arithmetic, comparison, logical)
+    - Input/output operations
+    - Comments and documentation
+    - Lists (indexing, slicing, methods)
+    - Tuples
+    - Dictionaries
+    - Sets
+    - List comprehensions
+    - Dictionary comprehensions
+    - Iteration techniques
+    - If-elif-else statements
+    - For loops and while loops
+    - Break, continue, pass
+    - Nested loops
+    - Defining functions
+    - Parameters and arguments (positional, keyword, default)
+    - Return values
+    - Lambda functions
+    - *args and **kwargs
+    - Scope (local, global, nonlocal)
+    - Classes and objects
+    - Attributes and methods
+    - Constructors (init)
+    - Inheritance
+    - Polymorphism
+    - Encapsulation
+    - Magic methods (str, repr, etc.)
+    - Try-except blocks
+    - Exception types
+    - Finally clause
+    - Raising exceptions
+    - Reading and writing text files
+    - CSV file operations
+    - JSON file operations
+    - Working with file paths
+Numpy : 
+    - Arrays and array operations
+
