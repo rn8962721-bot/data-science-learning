@@ -38,4 +38,5 @@ Topics covered:
     - Working with file paths
 Numpy : 
     - Arrays and array operations
+    
 
